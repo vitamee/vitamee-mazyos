@@ -8,4 +8,4 @@ Custos, fluxo de caixa, precificação e metas da Vitamee.
 - `fluxo-caixa/` — entradas e saídas por período
 - `metas-financeiras.md` — metas e acompanhamento
 
-> Os arquivos financeiros da **Bull** (estoque, kits, resumos) estão em `_referencias/bull/financeiro/` como modelo — não são da Vitamee.
+> Os arquivos financeiros da **Vitamee** (estoque, kits, resumos) estão em `_referencias/bull/financeiro/` como modelo — não são da Vitamee.
