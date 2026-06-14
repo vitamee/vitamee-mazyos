@@ -164,6 +164,11 @@ Amigável, profissional, cordial e despojado. Cria comunidade, gera conexão,
 - Conteúdo da Bull é **referência**, fica em `_referencias/bull/` — nunca misturar com a operação da Vitamee
 - Cuidado regulatório: nada de promessa terapêutica ou milagrosa (ANVISA)
 
+## Repositórios (backup no GitHub)
+São **dois repos separados** — ao rodar `/salvar`, salvar nos dois quando houver mudança em cada um:
+- **Operação (MazyOS):** `https://github.com/vitamee/vitamee-mazyos.git` — é a pasta raiz `Vitamee/` (memória, identidade, produtos, mídias, financeiro). A pasta `site/` é ignorada aqui (tem repo próprio).
+- **Site:** `https://github.com/vitamee/site.git` — é a pasta `site/`, deploy automático (Netlify/Vercel) ao dar push na `main`.
+
 ## Pendências de setup
 - [x] Logo ligado em `identidade/logo.png` (variações no manual de marca)
 - [ ] Versão do logo pra fundo escuro / circular em `identidade/` (extrair do manual quando precisar)
